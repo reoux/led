@@ -1,0 +1,9 @@
+Debug/*
+settings/*
+
+project.*
+*.eww
+
+-----------
+# vim
+*.swp
